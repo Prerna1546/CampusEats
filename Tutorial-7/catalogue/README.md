@@ -1,8 +1,7 @@
 # CampusEats Catalogue — Assignment 8
 
-Team members and roll numbers:
-- Member 1: Your Name — Roll Number
-- Member 2: Your Name — Roll Number
+Name - Prerna
+Roll No. - 20251651072
 
 Service chosen: CampusEats Catalogue / Menu service
 
